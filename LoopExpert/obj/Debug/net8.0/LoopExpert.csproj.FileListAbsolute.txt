@@ -1,0 +1,15 @@
+/Users/raynardbrown/Desktop/repos/LoopExpert/LoopExpert/bin/Debug/net8.0/LoopExpert
+/Users/raynardbrown/Desktop/repos/LoopExpert/LoopExpert/bin/Debug/net8.0/LoopExpert.deps.json
+/Users/raynardbrown/Desktop/repos/LoopExpert/LoopExpert/bin/Debug/net8.0/LoopExpert.runtimeconfig.json
+/Users/raynardbrown/Desktop/repos/LoopExpert/LoopExpert/bin/Debug/net8.0/LoopExpert.dll
+/Users/raynardbrown/Desktop/repos/LoopExpert/LoopExpert/bin/Debug/net8.0/LoopExpert.pdb
+/Users/raynardbrown/Desktop/repos/LoopExpert/LoopExpert/obj/Debug/net8.0/LoopExpert.GeneratedMSBuildEditorConfig.editorconfig
+/Users/raynardbrown/Desktop/repos/LoopExpert/LoopExpert/obj/Debug/net8.0/LoopExpert.AssemblyInfoInputs.cache
+/Users/raynardbrown/Desktop/repos/LoopExpert/LoopExpert/obj/Debug/net8.0/LoopExpert.AssemblyInfo.cs
+/Users/raynardbrown/Desktop/repos/LoopExpert/LoopExpert/obj/Debug/net8.0/LoopExpert.csproj.CoreCompileInputs.cache
+/Users/raynardbrown/Desktop/repos/LoopExpert/LoopExpert/obj/Debug/net8.0/LoopExpert.sourcelink.json
+/Users/raynardbrown/Desktop/repos/LoopExpert/LoopExpert/obj/Debug/net8.0/LoopExpert.dll
+/Users/raynardbrown/Desktop/repos/LoopExpert/LoopExpert/obj/Debug/net8.0/refint/LoopExpert.dll
+/Users/raynardbrown/Desktop/repos/LoopExpert/LoopExpert/obj/Debug/net8.0/LoopExpert.pdb
+/Users/raynardbrown/Desktop/repos/LoopExpert/LoopExpert/obj/Debug/net8.0/LoopExpert.genruntimeconfig.cache
+/Users/raynardbrown/Desktop/repos/LoopExpert/LoopExpert/obj/Debug/net8.0/ref/LoopExpert.dll
